@@ -1,5 +1,9 @@
 # Code for Experiments In the Paper "MomentumRNN: Integrating Momentum into Recurrent Neural Networks"
 
+<p align="center">
+  <img width="307" height="200" src="momentum_rnn_thumbnail_pic.png">
+</p>
+
 ## Requirements
 This code is tested inside the NVIDIA Pytorch docker container release 19.09. This container can be pulled from NVIDIA GPU Cloud as follows:
 
